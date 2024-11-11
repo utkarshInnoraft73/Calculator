@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input {
+  padding: 1rem 0.9rem;
+  color: black;
+  border-radius: 2rem;
+  outline: none;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+button {
+  padding: 1rem 1.6rem;
+  border: none;
+  outline: none;
+  background-color: #229bca;
+  color: #fff;
+  border-radius: 5px;
+}
